@@ -49,7 +49,7 @@ Entre paréntesis, se muestra el porcentaje correspondiente de cada aspecto que 
 - (20%) Negritas e itálicas.
 - (20%) Citas textuales.
 - (20%) Figura (el archivo está en [ZiemannEtAlFig1.png](img/ZiemannEtAlFig1.png), puede descargarlo de esa dirección).
-- (20%) Hipervínculo (incluya uno al sitio web de la FDA en https://www.fda.gov/, en donde se mencionan las siglas).
+- (20%) Hipervínculos (además de los de la bibliografía, incluya uno al sitio web de la FDA en https://www.fda.gov/, en donde se mencionan las siglas).
 
 **Vista final del documento**
 ![](img/ejercicio01.png)
