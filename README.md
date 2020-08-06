@@ -51,3 +51,5 @@ Al finalizar este laboratorio, el estudiante será capaz de:
 **Vista final del documento**
 ![](img/ejercicio01.png)
 ![](img/ejercicio02.png)
+
+Los textos están disponibles en [https://github.com/programacion-sig-2020/tarea-01-markdown/blob/master/texto.txt](https://github.com/programacion-sig-2020/tarea-01-markdown/blob/master/texto.txt).
