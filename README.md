@@ -6,7 +6,7 @@
 ### Fecha de entrega y entregables
 La fecha límite de entrega es el **jueves 13 de agosto de 2020**.  
 
-Cuando termine el laboratorio, envíele al profesor por correo electrónico la dirección del repositorio de GitHub resultante (ej. "https://github.com/mfvargas/notas-investigacion-reproducible").
+Cuando termine el laboratorio, envíele al profesor por correo electrónico la dirección del repositorio de GitHub resultante (ej. https://github.com/mfvargas/notas-investigacion-reproducible).
 
 ### Trabajo previo
 Se recomienda, además de leer el material preparado por el profesor y consultar las fuentes listadas en este, seguir el tutorial [Markdown Tutorial](https://www.markdowntutorial.com/), para familiarizarse con la sintaxis de Markdown.
